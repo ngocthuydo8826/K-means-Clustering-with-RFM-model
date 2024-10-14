@@ -12,7 +12,7 @@ So I will take this research's results as RFM model parameters: `Recency` - `Mon
 ## Customer Segmentation with RFM model result
 DATASET: R(mean)=1, F(mean)=32.39, M(mean)=64.76
 
-![Screenshot_14-10-2024_71526_](https://github.com/user-attachments/assets/f3ca2543-1e48-4dd3-adec-056884b69a8c)
+(https://github.com/user-attachments/assets/f3ca2543-1e48-4dd3-adec-056884b69a8c)
 
 - In cluster 1, F and M are lower than the average value so cluster  named `Less Consuming Short-Term Customers (LCSTC)`
 - In cluster 2, F is higher than the average value, and M is lower than the average value, so cluster  named `Less Consuming Long-Term Customers (LCLTC)`
